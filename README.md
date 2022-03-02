@@ -28,7 +28,7 @@ Abaixo você encontrará todas as informações necessárias para iniciar o seu 
 4. __Botão "Resetar"__
    - Ao clicar no botão o contador deve voltar ao seu valor inicial.
 
-<br><br>
+<br>
 
 Qualquer problema por favor, fique à vontade para nos chamar. 
 
