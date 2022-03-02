@@ -14,8 +14,9 @@ Abaixo você encontrará todas as informações necessárias para iniciar o seu 
 1. Nosso desafio técnico consiste em um simples contador, que possui um valor inicial do contador e três botões para aumentar, diminuir ou resetar esse valor.
 2. Você pode usar React ou JavaScript para fazer esse desafio.
 3. O design/layout não é avaliado, ele é para te servir de base. Se concentre apenas na implementação dos requisitos.
-4. Para iniciar o teste, crie uma branch a partir da `main` nesse padrão de nomenclatura dd-mm-yy/nome-sobrenome (por exemplo, 02-03-22/gizelly-silva) nesse repositório.
-5. Quando finalizar o teste, crie uma PR (Pull Request) da sua branch para a master e avise-nos que o teste está finalizado.
+4. Link do layout no figma para te servir de apoio: https://www.figma.com/file/03JHjEEtdJpO1Qi0L2MqpN/Desafio-Frontend-Playkids?node-id=0%3A1
+5. Para iniciar o teste, crie uma branch a partir da `main` nesse padrão de nomenclatura dd-mm-yy/nome-sobrenome (por exemplo, 02-03-22/gizelly-silva) nesse repositório.
+6. Quando finalizar o teste, crie uma PR (Pull Request) da sua branch para a master e avise-nos que o teste está finalizado.
 
 ### Requisitos
 1. Contador
