@@ -3,7 +3,6 @@
 Primeiramente, obrigada pelo seu interesse em trabalhar conosco.\
 Abaixo você encontrará todas as informações necessárias para iniciar o seu teste.
 
-
 ### Avisos antes de começar 
 - Você poderá consultar o Google, Stackoverflow ou algum projeto particular na sua máquina.
 - Fique à vontade para perguntar qualquer dúvida.
@@ -19,15 +18,15 @@ Abaixo você encontrará todas as informações necessárias para iniciar o seu 
 6. Quando finalizar o teste, crie uma PR (Pull Request) da sua branch para a `main` e avise-nos que o teste está finalizado.
 
 ### Requisitos
-1. Contador
-  - O valor inicial do contador é 1.
-  - O valor do contador não pode ser menor que zero.
-2. Botão "diminuir"
-  - Ao clicar no botão o contador deve diminuir 1.
-3. Botão "aumentar"
-  - Ao clicar no botão o contador deve aumentar 1.
-Botão "resetar"
-Ao clicar no botão o contador deve voltar ao seu valor inicial.
+1. __Contador__
+   - O valor inicial do contador é 1.
+   - O valor do contador não pode ser menor que zero.
+2. __Botão "Diminuir"__
+   - Ao clicar no botão o contador deve diminuir 1.
+3. __Botão "Aumentar"__
+   - Ao clicar no botão o contador deve aumentar 1.
+4. __Botão "Resetar"__
+   - Ao clicar no botão o contador deve voltar ao seu valor inicial.
 
 <br><br>
 
