@@ -1,0 +1,26 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <p class="contator">0</p>
+        <button id="add" onclick="mudarNum(add)">Adicionar</button>
+        <button id="sub" onclick="mudarNum(sub)">Subtrair</button>
+        <button id="res" onclick="mudarNum(res)">Resetar</button>
+    </body>
+    <script>
+        var contator = document.querySelector('.contator');
+        var cont = 0;
+
+        function mudarNum(acionar) {
+            if (acionar == add) {
+                cont += 1;
+            } else if (acionar == sub) {
+                cont -= 1;
+            }else if (acionar == res) {
+                cont = 0;
+            }
+
+            contator.innerHTML = cont;
+        }
+    </script>
+</html>
